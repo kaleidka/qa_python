@@ -15,7 +15,6 @@
 7. test_add_book_in_favorites: Проверяет добавление книги в избранное.
 8. test_delete_book_from_favorites: Проверяет удаление книги из избранного.
 9. test_get_list_of_favorites_books: Проверяет получение списка избранных книг.
-10. test_add_new_book_parametrized: Параметризованный тест для проверки добавления книг с разными названиями.
 
 # Запуск тестов
 
